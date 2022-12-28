@@ -1,5 +1,5 @@
 Hi, I’m Farhan Aji <br>
-a beginner at website development and still going...
+Front End Web Development enthusiast
 
 <!---
 farhanzipp/farhanzipp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
